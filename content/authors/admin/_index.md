@@ -1,13 +1,13 @@
 ---
 # Display name
-title: [Your Name Here]
+title: Daniel Wang
 
 # Full name (for SEO)
-first_name: [Your First Name]
-last_name: [Your Last Name]
+first_name: Daniel 
+last_name: Wang
 
 # Pronouns (optional)
-pronouns: ''
+pronouns: 'he/him'
 
 # Status emoji
 status:
@@ -30,12 +30,12 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:youremail@example.com'
+    url: 'mailto:Daniel.wang5421@gamil.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/yourgithub
+    url: https://github.com/Durude
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/yourprofile/
+    url: https://www.linkedin.com/in/daniel-wang-296387235/
 
 interests:
   - Digital Logic Design
