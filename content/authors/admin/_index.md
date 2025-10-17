@@ -57,8 +57,6 @@ education:
     date_start: 2018-09-01
     date_end: 2022-06-30
     summary: |
-      
-
 work:
   - position: Tech Display Member
     company_name: Toronto Metropolitan Engineering Concrete Toboggan Team
@@ -67,8 +65,6 @@ work:
     date_end: ''
     summary: |
       Programmed and integrated microcontroller-based interactive displays using Arduino and C++ for Canada’s largest engineering competition. Collaborated effectively with team members to meet deadlines.
-
-
 skills:
   - name: Hardware & Design
     items:
@@ -81,7 +77,6 @@ skills:
   - name: Tools & Systems
     items:
       - name: Linux, Windows, MATLAB, Multisim, Oscilloscope, Git, Autodesk
-
 languages:
   - name: English
     percent: 100
@@ -89,4 +84,5 @@ languages:
     percent: 70
 
 ---
+
 Third-year Computer Engineering student at Toronto Metropolitan University with hands-on experience in FPGA design, microcontrollers, embedded systems, and system-level hardware/software integration. Skilled in Python, C, and Java programming, with knowledge of Linux, computer organization, FSMs, and digital logic design. Experienced in projects involving sensor integration, PC building, and software/hardware testing.

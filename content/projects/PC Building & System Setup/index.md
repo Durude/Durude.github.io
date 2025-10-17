@@ -8,6 +8,7 @@ tags:
   - Troubleshooting
 ---
 
-Built and configured 15+ custom PCs, optimized OS and drivers, performed benchmarking, and developed troubleshooting procedures for hardware compatibility.
+Built and configured over 15 custom PCs, optimizing operating systems and drivers, performing benchmarking to assess CPU/GPU performance, and developing structured troubleshooting procedures to ensure hardware compatibility and system stability.
+
 
 <!--more-->

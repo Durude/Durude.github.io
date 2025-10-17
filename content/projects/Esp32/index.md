@@ -8,6 +8,5 @@ tags:
   - Sensors
 ---
 
-Integrated 8+ sensors (temperature, humidity, hall effect, light) for real-time weather monitoring. Built a web dashboard for visualization, used AutoCAD and 3D printing for functional prototypes, and debugged hardware/software communication issues.
-
+Built a weather monitoring system using an ESP32 microcontroller integrated with 8+ sensors (temperature, humidity, hall effect, and light). Developed a web dashboard for real-time data visualization, created functional prototypes with AutoCAD and 3D printing, and debugged hardware/software communication issues to ensure accurate sensor readings.
 <!--more-->

@@ -8,6 +8,6 @@ tags:
   - Team Project
 ---
 
-Developed an object-oriented Java application using UML design principles and JavaFX for the UI. Collaborated with a team to organize tasks and achieved a final grade of 94%.
+Designed and implemented an object-oriented Java application following UML design principles with a JavaFX user interface. Collaborated with a team to manage project tasks effectively and delivered a fully functional application, achieving a final grade of 94%.
 
 <!--more-->
