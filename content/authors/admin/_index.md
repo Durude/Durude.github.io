@@ -2,12 +2,15 @@
 # Display name
 title: Daniel Wang
 
+# Name pronunciation (optional)
+name_pronunciation: ''
+
 # Full name (for SEO)
 first_name: Daniel 
 last_name: Wang
 
 # Pronouns (optional)
-pronouns: 'he/him'
+pronouns: 'He/Him'
 
 # Status emoji
 status:
@@ -30,7 +33,7 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:Daniel.wang5421@gamil.com'
+    url: 'mailto:Daniel.Wang5421@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Durude
@@ -40,7 +43,6 @@ profiles:
 interests:
   - Digital Logic Design
   - FPGA & Microcontrollers
-  - Embedded Systems
   - System-level Hardware/Software Integration
 
 education:
@@ -50,6 +52,12 @@ education:
     date_end: ''
     summary: |
       Relevant Courses: Digital Systems, Software Systems, Electronic Circuits I, Engineering Algorithms and Data Structures
+  - area: High School Diploma
+    institution: St. Augustine CHS
+    date_start: 2018-09-01
+    date_end: 2022-06-30
+    summary: |
+      
 
 work:
   - position: Tech Display Member
@@ -60,28 +68,16 @@ work:
     summary: |
       Programmed and integrated microcontroller-based interactive displays using Arduino and C++ for Canada’s largest engineering competition. Collaborated effectively with team members to meet deadlines.
 
-projects:
-  - name: ESP32 Microcontroller Weather Station
-    date_start: 2025-06-01
-    summary: |
-      Integrated 8+ sensors (temperature, humidity, hall effect, light) for real-time weather monitoring. Built a web dashboard for visualization, used AutoCAD and 3D printing for functional prototypes, and debugged hardware/software communication issues.
-  - name: Simple Book Store Application
-    date_start: 2024-05-01
-    date_end: 2024-06-01
-    summary: |
-      Developed an object-oriented Java application with UML design principles and JavaFX UI. Collaborated with a team to organize tasks and achieved a final grade of 94%.
-  - name: PC Building & System Setup
-    date_start: 2020-01-01
-    summary: |
-      Built and configured 15+ custom PCs, optimized OS/drivers, performed benchmarking, and developed troubleshooting procedures for hardware compatibility.
 
 skills:
   - name: Hardware & Design
     items:
       - name: Quartus II, Verilog, FPGA (Altera DE Series), Digital Logic (FSM, ALU, Memory), Microcontrollers (Arduino, ESP32), Soldering
+        icon: code-bracket
   - name: Programming & Scripting
     items:
       - name: Python, C, C++, Java
+        icon: code-bracket
   - name: Tools & Systems
     items:
       - name: Linux, Windows, MATLAB, Multisim, Oscilloscope, Git, Autodesk
